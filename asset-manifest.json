@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ashwinikumar76/portfolio_ashwini.git/static/css/main.67dbe78a.css",
+    "main.js": "/ashwinikumar76/portfolio_ashwini.git/static/js/main.b9089656.js",
+    "static/js/415.4d6acbeb.chunk.js": "/ashwinikumar76/portfolio_ashwini.git/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ashwinikumar76/portfolio_ashwini.git/static/js/787.1ed0c42c.chunk.js",
+    "static/media/resumeAi.png": "/ashwinikumar76/portfolio_ashwini.git/static/media/resumeAi.8d0447a5f7cde9866e5e.png",
+    "static/media/Ashwini_Nayak_Btech_Cv.pdf": "/ashwinikumar76/portfolio_ashwini.git/static/media/Ashwini_Nayak_Btech_Cv.7b1afcb04d8d344fcae0.pdf",
+    "static/media/about.png": "/ashwinikumar76/portfolio_ashwini.git/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/ashwini_photo.jpeg": "/ashwinikumar76/portfolio_ashwini.git/static/media/ashwini_photo.2c73d2f3baf26407c837.jpeg",
+    "static/media/home-bg.jpg": "/ashwinikumar76/portfolio_ashwini.git/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/ashwinikumar76/portfolio_ashwini.git/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/ashwinikumar76/portfolio_ashwini.git/index.html",
+    "main.67dbe78a.css.map": "/ashwinikumar76/portfolio_ashwini.git/static/css/main.67dbe78a.css.map",
+    "main.b9089656.js.map": "/ashwinikumar76/portfolio_ashwini.git/static/js/main.b9089656.js.map",
+    "415.4d6acbeb.chunk.js.map": "/ashwinikumar76/portfolio_ashwini.git/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ashwinikumar76/portfolio_ashwini.git/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67dbe78a.css",
+    "static/js/main.b9089656.js"
+  ]
+}
