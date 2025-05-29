@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ashwinikumar76/portfolio_ashwini.git/static/css/main.67dbe78a.css",
-    "main.js": "/ashwinikumar76/portfolio_ashwini.git/static/js/main.b9089656.js",
+    "main.js": "/ashwinikumar76/portfolio_ashwini.git/static/js/main.59e15915.js",
     "static/js/415.4d6acbeb.chunk.js": "/ashwinikumar76/portfolio_ashwini.git/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/ashwinikumar76/portfolio_ashwini.git/static/js/787.1ed0c42c.chunk.js",
     "static/media/resumeAi.png": "/ashwinikumar76/portfolio_ashwini.git/static/media/resumeAi.8d0447a5f7cde9866e5e.png",
@@ -12,12 +12,12 @@
     "static/media/pre.svg": "/ashwinikumar76/portfolio_ashwini.git/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/ashwinikumar76/portfolio_ashwini.git/index.html",
     "main.67dbe78a.css.map": "/ashwinikumar76/portfolio_ashwini.git/static/css/main.67dbe78a.css.map",
-    "main.b9089656.js.map": "/ashwinikumar76/portfolio_ashwini.git/static/js/main.b9089656.js.map",
+    "main.59e15915.js.map": "/ashwinikumar76/portfolio_ashwini.git/static/js/main.59e15915.js.map",
     "415.4d6acbeb.chunk.js.map": "/ashwinikumar76/portfolio_ashwini.git/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/ashwinikumar76/portfolio_ashwini.git/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67dbe78a.css",
-    "static/js/main.b9089656.js"
+    "static/js/main.59e15915.js"
   ]
 }
